@@ -1,0 +1,2092 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.kleinerperkins.com/partnerships/
+summary:
+  portfolio_total: 230
+  in_network: 65
+  api_providers: 44
+  missing: 165
+  stubs_created: 0
+companies:
+- name: Amazon
+  url: https://www.amazon.com
+  description: Everything store and cloud computing (AWS) technology giant.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: amazon
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Google
+  url: https://www.google.com
+  description: Organizing the world's information; search and internet services.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: google
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Spotify
+  url: https://www.spotify.com
+  description: Music and audio streaming service.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: spotify
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Rippling
+  url: https://www.rippling.com
+  description: The employee system of record; HR, IT and finance platform.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: rippling
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Electronic Arts
+  url: https://www.ea.com
+  description: Interactive entertainment and video game publisher.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: electronic-arts
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Figma
+  url: https://www.figma.com
+  description: Collaborative interface design platform.
+  sector: enterprise
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: figma
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ambience
+  url: https://www.ambiencehealthcare.com
+  description: The AI operating system for healthcare.
+  sector: healthcare
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: ambience-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Anthropic
+  url: https://www.anthropic.com
+  description: AI safety company building large language models.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: anthropic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Applied Compute
+  description: Custom enterprise AI agents platform.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: applied-compute
+  stub_created: true
+  slug: applied-compute
+  matched_by: stub
+- name: Applied Intuition
+  url: https://www.appliedintuition.com
+  description: Vehicle intelligence and autonomy platform.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: applied-intuition
+  stub_created: true
+  slug: applied-intuition
+  matched_by: stub
+- name: Armadin
+  description: AI-powered offensive security platform.
+  sector: security
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: armadin
+  stub_created: true
+  slug: armadin
+  matched_by: stub
+- name: Avoca
+  description: The AI workforce for service businesses.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: avoca
+  stub_created: true
+  slug: avoca
+  matched_by: stub
+- name: Browserbase
+  url: https://www.browserbase.com
+  description: Browser infrastructure for AI agents.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: browserbase
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bun
+  url: https://bun.com
+  description: All-in-one JavaScript runtime and toolkit.
+  sector: developer-tools
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: bun
+  stub_created: true
+  slug: bun
+  matched_by: stub
+- name: Chainguard
+  url: https://www.chainguard.dev
+  description: The safe source for open source software.
+  sector: security
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: chainguard
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Databricks
+  url: https://www.databricks.com
+  description: The data and AI company; lakehouse platform.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: databricks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Engram
+  description: The learned AI memory layer.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: engram
+  stub_created: true
+  slug: engram
+  matched_by: stub
+- name: Fal
+  url: https://www.fal.ai
+  description: Lightning-fast generative media inference.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: fal-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Garner Health
+  url: https://www.getgarner.com
+  description: Improving American healthcare quality and cost.
+  sector: healthcare
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: garner-health
+  stub_created: true
+  slug: garner-health
+  matched_by: stub
+- name: Glean
+  url: https://www.glean.com
+  description: Work AI for all; enterprise search and assistant.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: glean
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Harmonic
+  url: https://www.harmonic.fun
+  description: Mathematical superintelligence research.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: harmonic
+  stub_created: true
+  slug: harmonic
+  matched_by: stub
+- name: Harvey
+  url: https://www.harvey.ai
+  description: Domain-specific AI for legal work.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: harvey-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hippocratic AI
+  url: https://www.hippocraticai.com
+  description: Safety-focused healthcare AI.
+  sector: healthcare
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: hippocratic-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Loom
+  url: https://www.loom.com
+  description: Async video messaging platform for work.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: loom
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Manifest OS
+  description: AI-native law firm with fixed-fee pricing.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: manifest-os
+  stub_created: true
+  slug: manifest-os
+  matched_by: stub
+- name: Maxima
+  description: Enterprise accounting automation.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: maxima
+  stub_created: true
+  slug: maxima
+  matched_by: stub
+- name: Mind Robotics
+  description: Physical AI for the real world.
+  sector: hardtech
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: mind-robotics
+  stub_created: true
+  slug: mind-robotics
+  matched_by: stub
+- name: Mirendil
+  description: Democratizing frontier AI research.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: mirendil
+  stub_created: true
+  slug: mirendil
+  matched_by: stub
+- name: Motive
+  url: https://www.gomotive.com
+  description: AI-powered operations platform for the physical economy.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: motive
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Moveworks
+  url: https://www.moveworks.com
+  description: The agentic AI copilot for employees.
+  sector: ai
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: moveworks
+  stub_created: true
+  slug: moveworks
+  matched_by: stub
+- name: NewLimit
+  url: https://www.newlimit.com
+  description: Extending human healthspan.
+  sector: healthcare
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: newlimit
+  stub_created: true
+  slug: newlimit
+  matched_by: stub
+- name: Nexthop AI
+  description: Next-generation networking for AI.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: nexthop-ai
+  stub_created: true
+  slug: nexthop-ai
+  matched_by: stub
+- name: Nooks
+  url: https://www.nooks.ai
+  description: AI-powered sales pipeline.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: nooks
+  stub_created: true
+  slug: nooks
+  matched_by: stub
+- name: OpenEvidence
+  url: https://www.openevidence.com
+  description: The medical information platform.
+  sector: healthcare
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: openevidence
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Parallel
+  url: https://www.parallel.ai
+  description: Building the web for AI agents.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: parallel
+  stub_created: true
+  slug: parallel
+  matched_by: stub
+- name: Poetic
+  description: Delegating work to computers.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: poetic
+  stub_created: true
+  slug: poetic
+  matched_by: stub
+- name: Profound
+  url: https://www.tryprofound.com
+  description: The AI visibility platform.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: true
+  is_api_provider: false
+  suggested_slug: profound
+  stub_created: true
+  slug: profound
+  matched_by: stub
+- name: Reevo
+  url: https://www.reevo.ai
+  description: AI-native revenue operating system.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reevo
+  stub_created: false
+- name: Roadrunner
+  description: Revenue in motion.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: roadrunner
+  stub_created: false
+- name: Robinhood
+  url: https://www.robinhood.com
+  description: Commission-free investing platform.
+  sector: fintech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: robinhood
+  stub_created: false
+- name: Rogo
+  url: https://www.rogo.ai
+  description: AI platform for finance.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rogo
+  stub_created: false
+- name: Sail Research
+  description: Infrastructure for abundant intelligence.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sail-research
+  stub_created: false
+- name: Saronic Technologies
+  url: https://www.saronic.com
+  description: Autonomous maritime superiority technology.
+  sector: hardtech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: saronic
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Stord
+  url: https://www.stord.com
+  description: Commerce enablement and fulfillment platform.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: stord
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Synthesia
+  url: https://www.synthesia.io
+  description: AI-enabled video creation platform.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: synthesia
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: TerraFirma
+  description: Construction innovation platform.
+  sector: hardtech
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: terrafirma
+  stub_created: false
+- name: Together.ai
+  url: https://www.together.ai
+  description: The AI acceleration cloud.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: ai-gateway
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Traversal
+  url: https://www.traversal.com
+  description: AI-first site reliability.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: traversal
+- name: Trovy
+  description: Home equity access platform.
+  sector: fintech
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trovy
+- name: Waymo
+  url: https://www.waymo.com
+  description: Autonomous driving technology.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: waymo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Windsurf
+  url: https://www.windsurf.com
+  description: The modern AI coding platform.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: windsurf
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wisdom AI
+  description: The AI data analyst for the enterprise.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wisdom-ai
+- name: '@Home Network'
+  description: Cable internet service pioneer.
+  sector: enterprise
+  status: dead
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: home-network
+- name: 3VR
+  description: Physical security video technology.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 3vr
+- name: 41st Parameter
+  description: Device identification technology.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 41st-parameter
+- name: Accept
+  description: Enterprise sales productivity software.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: accept
+- name: AdKnowledge
+  description: Online advertising and email marketing.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: adknowledge
+- name: AdMob
+  description: Mobile advertising network.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: admob
+- name: Airbnb
+  url: https://www.airbnb.com
+  description: Global travel and short-term lodging marketplace.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: airbnb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Akeana
+  description: RISC-V performance enhancement.
+  sector: hardtech
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: akeana
+- name: AlienVault
+  description: Threat detection and response platform.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alienvault
+- name: Alif
+  description: AI-enabled embedded chips.
+  sector: hardtech
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alif
+- name: Align Technology
+  url: https://www.aligntech.com
+  description: Clear aligner dental systems (Invisalign).
+  sector: healthcare
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: align-technology
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Alkira
+  url: https://www.alkira.com
+  description: Network infrastructure for the AI era.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alkira
+- name: Allium
+  url: https://www.allium.so
+  description: Blockchain data platform.
+  sector: enterprise
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: allium
+- name: Ambiq Micro
+  url: https://ambiq.com
+  description: Ultra-low-power endpoint device chips.
+  sector: hardtech
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ambiq-micro
+- name: American Superconductor Corporation
+  url: https://www.amsc.com
+  description: Power electronics and wind energy systems.
+  sector: hardtech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: american-superconductor-corporation
+- name: Amprius
+  url: https://amprius.com
+  description: High-energy-density lithium-ion batteries.
+  sector: hardtech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: amprius
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Amyris
+  description: Synthetic biotechnology.
+  sector: healthcare
+  status: dead
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amyris
+- name: AOL
+  description: Online connectivity and internet portal.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: aol
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: apiiro
+  url: https://apiiro.com
+  description: Application security posture management.
+  sector: security
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: apiiro
+- name: AppDynamics
+  description: Application performance monitoring software.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: appdynamics
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Arcade
+  url: https://www.arcade.software
+  description: Interactive content creation platform.
+  sector: enterprise
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: arcade
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: ArcSight
+  description: Security and compliance management.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arcsight
+- name: Area 1 Security
+  description: Zero Trust email protection platform.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: area-1-security
+- name: ARMO BioSciences
+  description: Cancer immunotherapy biotech.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: armo-biosciences
+- name: Arresto Biosciences
+  description: Cancer drug discovery biotech.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arresto-biosciences
+- name: ArsenalBio
+  url: https://www.arsenalbio.com
+  description: Programmable cell therapy.
+  sector: healthcare
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arsenalbio
+- name: Ascend Communications
+  description: WAN networking equipment.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ascend-communications
+- name: Assured
+  url: https://www.assured.claims
+  description: Insurance and financial protection.
+  sector: fintech
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: assured
+- name: Atara Bio
+  url: https://www.atarabio.com
+  description: Allogeneic T-cell immunotherapy.
+  sector: healthcare
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atara-bio
+- name: Audible
+  description: Audiobook and podcast service.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: audible
+- name: Audius
+  url: https://audius.co
+  description: Musician-focused streaming platform.
+  sector: consumer
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: audius
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AutoTrader.com
+  url: https://www.autotrader.com
+  description: Online automotive marketplace.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: autotradercom
+- name: Axion
+  description: Biopharmaceutical company.
+  sector: healthcare
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: axion
+- name: Azarus
+  description: Interactive entertainment platform.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: azarus
+- name: Balerion
+  description: AI agents for lending.
+  sector: fintech
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: balerion
+- name: Beam Dental
+  url: https://www.beam.dental
+  description: Digital dental insurance provider.
+  sector: healthcare
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beam-dental
+- name: Bedrock Systems
+  description: Formally secured computing foundation.
+  sector: security
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bedrock-systems
+- name: Better Mortgage
+  url: https://www.better.com
+  description: Digital home mortgage platform.
+  sector: fintech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: better-mortgage
+- name: BetterWorks
+  url: https://www.betterworks.com
+  description: Workplace performance management platform.
+  sector: enterprise
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: betterworks
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Beyond Meat
+  url: https://www.beyondmeat.com
+  description: Plant-based meat alternatives.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beyond-meat
+- name: Biogen
+  url: https://www.biogen.com
+  description: Biotech for neurological diseases.
+  sector: healthcare
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: biogen
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bison Trails
+  description: Blockchain node infrastructure.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bison-trails
+- name: Bitstrips
+  description: Cartoon avatar and comic app.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bitstrips
+- name: Bloom Energy
+  url: https://www.bloomenergy.com
+  description: Clean energy fuel cell systems.
+  sector: hardtech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bloom-energy
+- name: Boston Scientific
+  url: https://www.bostonscientific.com
+  description: Cardiovascular medical devices.
+  sector: healthcare
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: boston-scientific
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Breathe Technologies
+  description: Portable ventilator technology.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: breathe-technologies
+- name: Brex
+  url: https://www.brex.com
+  description: Corporate cards and spend management for startups.
+  sector: fintech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: brex
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BuddyBuild
+  description: Mobile app CI/CD and crash reporting.
+  sector: developer-tools
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: buddybuild
+- name: Carbon Black
+  description: Cloud-native endpoint protection.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: carbon-black
+- name: Cardiovascular Devices
+  description: Cardiovascular monitoring devices.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cardiovascular-devices
+- name: Cartesia
+  url: https://cartesia.ai
+  description: Multimodal real-time intelligence platform.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: cartesia
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cell Design Labs
+  description: Cell-based therapies.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cell-design-labs
+- name: Cerent
+  description: Optical networking equipment.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cerent
+- name: CesiumAstro
+  url: https://www.cesiumastro.com
+  description: Satellite communication payloads.
+  sector: hardtech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cesiumastro
+- name: Chef Robotics
+  url: https://www.chefrobotics.ai
+  description: Intelligent food automation robotics.
+  sector: hardtech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: chef-robotics
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Chegg
+  url: https://www.chegg.com
+  description: Student learning and education platform.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chegg
+- name: Choose Energy
+  description: Energy provider marketplace.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: choose-energy
+- name: Ciena
+  url: https://www.ciena.com
+  description: Intelligent networking and fiber optics.
+  sector: enterprise
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: ciena
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Citrix
+  url: https://www.citrix.com
+  description: Virtual desktop and cloud software.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: citrix
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CloudHealth Technologies
+  description: Cloud cost management platform.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cloudhealth-technologies
+- name: CloudPhysics
+  description: Cloud analytics and datacenter simulation.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cloudphysics
+- name: Coda
+  url: https://coda.io
+  description: Collaborative document and app platform.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: coda
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CodeSandbox
+  url: https://codesandbox.io
+  description: Cloud-based development environment.
+  sector: developer-tools
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: codesandbox
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Collabra
+  description: Team collaboration software.
+  sector: enterprise
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collabra
+- name: Collective Medical
+  description: Care coordination platform.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collective-medical
+- name: Compaq Computer Corporation
+  description: Personal computers.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: compaq-computer-corporation
+- name: Convoke
+  description: Biotech and pharma information organization.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: convoke
+- name: CoreOS
+  description: Container operating system technology.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coreos
+- name: Corio
+  description: Software management services.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: corio
+- name: CoroNet
+  description: Network management software.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coronet
+- name: Corventis
+  description: Wireless cardiac monitoring patches.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: corventis
+- name: Coursera
+  url: https://www.coursera.org
+  description: Online education and learning platform.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: coursera
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Crescendo Bioscience
+  description: Molecular diagnostics.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crescendo-bioscience
+- name: Crossbar
+  url: https://www.crossbar-inc.com
+  description: ReRAM non-volatile memory technology.
+  sector: hardtech
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crossbar
+- name: Crystal
+  description: Audio and mixed-signal semiconductor chips.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crystal
+- name: Crystal Dynamics
+  url: https://crystaldynamics.com
+  description: Interactive entertainment and games.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crystal-dynamics
+- name: CSG Systems
+  url: https://www.csgi.com
+  description: Telecom billing and revenue management.
+  sector: enterprise
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: csg
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Datameer
+  description: Big data analytics platform.
+  sector: enterprise
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datameer
+- name: DataStax
+  url: https://www.datastax.com
+  description: Enterprise NoSQL and AI data platform.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datastax
+- name: Density
+  url: https://www.density.io
+  description: Space utilization measurement technology.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: density
+- name: Destineer
+  description: Telecom networking solutions.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: destineer
+- name: Dexterity
+  url: https://www.dexterity.ai
+  description: Robotic problem-solving platform.
+  sector: hardtech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: dexterity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Diamond Lane
+  description: DSL broadband networking equipment.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: diamond-lane
+- name: DIY
+  description: Online community for creative sharing.
+  sector: consumer
+  status: dead
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: diy
+- name: DocuSign
+  url: https://www.docusign.com
+  description: Electronic signature platform.
+  sector: enterprise
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: docusign
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: DoorDash
+  url: https://www.doordash.com
+  description: Local commerce and delivery platform.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: doordash
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Drawbridge
+  description: Cross-device identity and advertising technology.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: drawbridge
+- name: Dropcam
+  description: Wi-Fi home video monitoring cameras.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dropcam
+- name: Duolingo
+  url: https://www.duolingo.com
+  description: Language learning platform.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: duolingo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: EdgeSpring
+  description: Business intelligence platform.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: edgespring
+- name: Endgame
+  description: Endpoint security platform.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: endgame
+- name: Engine ML
+  description: Deep learning infrastructure.
+  sector: ai
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: engine-ml
+- name: Enphase Energy
+  url: https://www.enphase.com
+  description: Microinverter solar energy systems.
+  sector: hardtech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: enphase-energy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Enterpret
+  url: https://www.enterpret.com
+  description: Customer intelligence platform.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enterpret
+- name: Eo Computer
+  description: Pen-based personal communicator.
+  sector: hardtech
+  status: dead
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eo-computer
+- name: Epic Games
+  url: https://www.epicgames.com
+  description: Interactive entertainment and game technology.
+  sector: consumer
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: epic-games
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Epizyme
+  description: Epigenetics-based cancer therapeutics.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: epizyme
+- name: Evalve
+  description: Catheter-based mitral valve repair.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evalve
+- name: Excite@Home
+  description: Internet portal and broadband service.
+  sector: consumer
+  status: dead
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: excite-home
+- name: Extreme Networks
+  url: https://www.extremenetworks.com
+  description: Cloud-managed network infrastructure.
+  sector: enterprise
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: brocade
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: FabFitFun
+  url: https://fabfitfun.com
+  description: Lifestyle subscription box service.
+  sector: consumer
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fabfitfun
+- name: Facebook
+  url: https://www.facebook.com
+  description: Social media and advertising platform.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: facebook
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Farmers Edge
+  description: Digital farming and precision agriculture.
+  sector: enterprise
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: farmers-edge
+- name: Fauna
+  description: Robotic companions platform.
+  sector: hardtech
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: fauna
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Fin
+  url: https://www.fin.com
+  description: AI customer service solution.
+  sector: ai
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fin
+- name: Flexus Biosciences
+  description: Immuno-oncology drug discovery.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flexus-biosciences
+- name: Flipagram
+  description: Short-form video creation app.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flipagram
+- name: Flock Safety
+  url: https://www.flocksafety.com
+  description: AI safety and situational awareness platform.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flock-safety
+- name: Fortify Software
+  description: Automated static code analysis.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fortify-software
+- name: Foundation Medicine
+  description: Cancer genomics advancement.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: foundation-medicine
+- name: FullStory
+  url: https://www.fullstory.com
+  description: Digital experience intelligence platform.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: fullstory
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Future
+  url: https://www.future.co
+  description: Fitness and wellness coaching platform.
+  sector: consumer
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: future
+- name: Gambit
+  description: AI-native resilience platform.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gambit
+- name: Genentech
+  url: https://www.gene.com
+  description: Biotechnology company.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: spark-therapeutics
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: General Radar
+  description: High-performance digital radars.
+  sector: hardtech
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: general-radar
+- name: Genomic Health
+  description: Genetic research and cancer detection.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: genomic-health
+- name: GenPharm
+  description: Transgenic animal antibody technology.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: genpharm
+- name: Good Technology
+  description: Mobile enterprise security and management.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: good-technology
+- name: Granola
+  url: https://www.granola.ai
+  description: AI notepad and company context platform.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: granola
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Gusto
+  url: https://www.gusto.com
+  description: Payroll and HR platform for small businesses.
+  sector: fintech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: gusto
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Handshake
+  url: https://www.joinhandshake.com
+  description: Early career recruiting network.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: handshake
+- name: Handspring
+  description: Personal digital assistant maker.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: handspring
+- name: Harmonic Lightwaves
+  url: https://www.harmonicinc.com
+  description: Video delivery infrastructure.
+  sector: enterprise
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: harmonic-lightwaves
+- name: Health Universe
+  description: Healthcare workflow automation.
+  sector: healthcare
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: health-universe
+- name: Heartport
+  description: Minimally invasive heart surgery systems.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: heartport
+- name: Huntress
+  url: https://www.huntress.com
+  description: Managed cybersecurity platform.
+  sector: security
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: huntress
+- name: HYLA
+  description: Mobile device trade-in programs.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hyla
+- name: IControl Networks
+  description: Connected home technology.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: icontrol-networks
+- name: IDEC Pharmaceuticals
+  description: Oncology and autoimmune disease biotech.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: idec-pharmaceuticals
+- name: Imprint
+  url: https://www.imprint.co
+  description: Loyalty-based co-branded card solutions.
+  sector: fintech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: imprint
+- name: Incorta
+  url: https://www.incorta.com
+  description: Open data delivery and analytics platform.
+  sector: enterprise
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: incorta
+- name: Indiegogo
+  url: https://www.indiegogo.com
+  description: Crowdfunding platform.
+  sector: consumer
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: indiegogo
+- name: Indigo
+  description: Digital color printing press technology.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: indigo
+- name: Infinitus
+  url: https://www.infinitus.ai
+  description: Business phone call automation.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: infinitus
+- name: Inkitt
+  url: https://www.inkitt.com
+  description: AI-powered author discovery platform.
+  sector: ai
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: inkitt
+- name: Instacart
+  url: https://www.instacart.com
+  description: Grocery delivery and pickup platform.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: instacart
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Internet Security Systems
+  description: Security software and managed services.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: internet-security-systems
+- name: Interos
+  url: https://www.interos.ai
+  description: Supply chain resilience platform.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: interos
+- name: Intersect ENT
+  description: Drug-device systems for ENT conditions.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: intersect-ent
+- name: Intuit
+  url: https://www.intuit.com
+  description: Business and financial software.
+  sector: fintech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: intuit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Inworld
+  url: https://www.inworld.ai
+  description: AI character and runtime platform for games.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: inworld
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ionic Security
+  description: Data security transaction platform.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ionic-security
+- name: iPierian
+  description: Stem cell disease model biotech.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ipierian
+- name: IronPlanet
+  description: Heavy equipment and durable assets marketplace.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ironplanet
+- name: Jask
+  description: Autonomous security operations platform.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jask
+- name: Jive
+  url: https://www.jivesoftware.com
+  description: Enterprise collaboration solutions.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jive
+- name: Juna.ai
+  url: https://www.juna.ai
+  description: Industrial process automation AI.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: junaai
+- name: Juniper Networks
+  url: https://www.juniper.net
+  description: High-performance networking infrastructure.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: juniper
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kalpana
+  description: LAN switching technology.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kalpana
+- name: Karma Science
+  description: Social gifting and payments app.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: karma-science
+- name: Katango
+  description: Automated friend sorter application.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: katango
+- name: Ketera
+  description: Enterprise spend management solutions.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ketera
+- name: Klout
+  description: Social influence measurement platform.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: klout
+- name: Labelbox
+  url: https://labelbox.com
+  description: Training data platform for production AI.
+  sector: ai
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: labelbox
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: LegalZoom
+  url: https://www.legalzoom.com
+  description: Online legal document creation service.
+  sector: consumer
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: legalzoom
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: LendingClub
+  url: https://www.lendingclub.com
+  description: Online marketplace lending platform.
+  sector: fintech
+  status: ipo
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: lendingclub
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: LifeLock
+  description: Identity theft prevention software.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lifelock
+- name: Lightera
+  description: Optical networking equipment.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lightera
+- name: LightForce Orthodontics
+  url: https://www.lightforceortho.com
+  description: 3D-printed orthodontics technology.
+  sector: healthcare
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lightforce-orthodontics
+- name: Linear Technology
+  description: High-performance analog semiconductor ICs.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: linear-technology
+- name: Livongo
+  description: Digital health platform for chronic conditions.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: livongo
+- name: Looker
+  description: Data analytics and business intelligence.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: looker
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Lotus Development
+  description: Enterprise productivity software.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lotus-development
+- name: Lotus Health AI
+  description: AI-powered medical platform.
+  sector: healthcare
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lotus-health-ai
+- name: LSI
+  description: Semiconductor and storage technology chips.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lsi
+- name: Lumafield
+  url: https://www.lumafield.com
+  description: Engineering CT visualization technology.
+  sector: hardtech
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lumafield
+- name: Lumeris
+  url: https://www.lumeris.com
+  description: Value-based care strategy platform.
+  sector: healthcare
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lumeris
+- name: Luvocracy
+  description: Product recommendation marketplace.
+  sector: consumer
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: luvocracy
+- name: LuxCreo
+  url: https://www.luxcreo.com
+  description: Sustainable 3D production technology.
+  sector: hardtech
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: luxcreo
+- name: LuxVue Technology
+  description: Micro-LED screen technologies.
+  sector: hardtech
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: luxvue-technology
+- name: Macromedia
+  description: Graphics, multimedia, and web software.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: macromedia
+- name: Magic Leap
+  url: https://www.magicleap.com
+  description: Augmented reality platform.
+  sector: consumer
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: magic-leap
+- name: MAI
+  description: Performance marketing AI.
+  sector: ai
+  status: early
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mai
+- name: Mandiant
+  description: Incident response and threat intelligence.
+  sector: security
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mandiant
+- name: Marimba
+  description: Software configuration and update management.
+  sector: enterprise
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: marimba
+- name: Materialize
+  url: https://materialize.com
+  description: Live data layer for AI agents and applications.
+  sector: enterprise
+  status: growth
+  source: https://www.kleinerperkins.com/partnerships/
+  slug: materialize
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: MedArrive
+  description: Healthcare access expansion platform.
+  sector: healthcare
+  status: active
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: medarrive
+- name: Millennium Pharmaceuticals
+  description: Oncology-focused biopharmaceuticals.
+  sector: healthcare
+  status: acquired
+  source: https://www.kleinerperkins.com/partnerships/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: millennium-pharmaceuticals
