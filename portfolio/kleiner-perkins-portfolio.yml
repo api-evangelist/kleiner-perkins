@@ -1016,7 +1016,7 @@ companies:
   sector: ai
   status: growth
   source: https://www.kleinerperkins.com/partnerships/
-  slug: cartesia
+  slug: cartesia-ai
   in_network: true
   is_api_provider: true
   matched_by: domain
