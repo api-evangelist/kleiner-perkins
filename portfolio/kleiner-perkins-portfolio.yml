@@ -364,7 +364,7 @@ companies:
   in_network: true
   is_api_provider: true
   stub_created: true
-  slug: parallel
+  slug: parallel-ai
   matched_by: domain
 - name: Poetic
   description: Delegating work to computers.
