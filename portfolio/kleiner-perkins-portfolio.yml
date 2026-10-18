@@ -394,8 +394,8 @@ companies:
   stub_created: true
   url: http://withforge.com/
   x-url-source: kleinerperkins.com/partnerships
-  x-name-collision: poetic
   suggested_slug: withforge-com
+  x-name-collision: poetic
 - name: Profound
   url: https://www.tryprofound.com
   description: The AI visibility platform.
@@ -428,8 +428,8 @@ companies:
   stub_created: false
   url: https://www.roadrunner.ai/
   x-url-source: kleinerperkins.com/partnerships
-  x-name-collision: roadrunner
   suggested_slug: roadrunner-ai
+  x-name-collision: roadrunner
 - name: Robinhood
   url: https://www.robinhood.com
   description: Commission-free investing platform.
@@ -625,6 +625,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: admob
+  x-url-candidate: https://admob.google.com/home/
 - name: Airbnb
   url: https://www.airbnb.com
   description: Global travel and short-term lodging marketplace.
@@ -790,8 +791,8 @@ companies:
   is_api_provider: false
   url: http://www.arcsight.com/
   x-url-source: kleinerperkins.com/partnerships
-  x-name-collision: arcsight
   suggested_slug: arcsight-com
+  x-name-collision: arcsight
 - name: Area 1 Security
   description: Zero Trust email protection platform.
   sector: security
@@ -905,7 +906,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: axion
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.axion.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Azarus
   description: Interactive entertainment platform.
   sector: consumer
@@ -1142,7 +1145,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: choose-energy
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.chooseenergy.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Ciena
   url: https://www.ciena.com
   description: Intelligent networking and fiber optics.
@@ -1213,7 +1218,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: collabra
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.collabra.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Collective Medical
   description: Care coordination platform.
   sector: healthcare
@@ -1287,6 +1294,7 @@ companies:
   is_api_provider: false
   slug: corventis
   matched_by: name-slug
+  x-url-candidate: https://corventis.io
 - name: Coursera
   url: https://www.coursera.org
   description: Online education and learning platform.
@@ -1619,8 +1627,8 @@ companies:
   is_api_provider: false
   url: https://faunarobotics.com/
   x-url-source: kleinerperkins.com/partnerships
-  x-name-collision: fauna
   suggested_slug: faunarobotics-com
+  x-name-collision: fauna
 - name: Fin
   url: https://www.fin.com
   description: AI customer service solution.
@@ -1805,6 +1813,7 @@ companies:
   is_api_provider: false
   slug: handspring
   matched_by: name-slug
+  x-url-candidate: https://handspring.ai
 - name: Harmonic Lightwaves
   url: https://www.harmonicinc.com
   description: Video delivery infrastructure.
@@ -1856,6 +1865,7 @@ companies:
   is_api_provider: false
   slug: hyla
   matched_by: name-slug
+  x-url-candidate: https://www.hyla.com/
 - name: IControl Networks
   description: Connected home technology.
   sector: hardtech
@@ -1917,6 +1927,7 @@ companies:
   is_api_provider: false
   slug: indigo
   matched_by: name-slug
+  x-url-candidate: https://www.indigo.ca/
 - name: Infinitus
   url: https://www.infinitus.ai
   description: Business phone call automation.
@@ -2152,8 +2163,8 @@ companies:
   is_api_provider: false
   url: http://www.lifelock.com/
   x-url-source: kleinerperkins.com/partnerships
-  x-name-collision: lifelock
   suggested_slug: lifelock-com
+  x-name-collision: lifelock
 - name: Lightera
   description: Optical networking equipment.
   sector: hardtech
@@ -2163,6 +2174,7 @@ companies:
   is_api_provider: false
   slug: lightera
   matched_by: name-slug
+  x-url-candidate: https://lightera.com
 - name: LightForce Orthodontics
   url: https://www.lightforceortho.com
   description: 3D-printed orthodontics technology.
