@@ -1,4 +1,53 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: kleiner-perkins
-leads: []
+leads:
+- name: AdMob
+  url: ''
+  suggested_slug: admob
+  sector: consumer
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
+- name: Alif
+  url: ''
+  suggested_slug: alif
+  sector: hardtech
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
+- name: CloudHealth Technologies
+  url: ''
+  suggested_slug: cloudhealth-technologies
+  sector: enterprise
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
+- name: Endgame
+  url: ''
+  suggested_slug: endgame
+  sector: security
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
+- name: Fortify Software
+  url: ''
+  suggested_slug: fortify-software
+  sector: security
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
+- name: Linear Technology
+  url: ''
+  suggested_slug: linear-technology
+  sector: hardtech
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
+- name: Lotus Health AI
+  url: ''
+  suggested_slug: lotus-health-ai
+  sector: healthcare
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false

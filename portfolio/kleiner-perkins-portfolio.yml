@@ -3,10 +3,10 @@ method: searched
 source: https://www.kleinerperkins.com/partnerships/
 summary:
   portfolio_total: 230
-  in_network: 230
-  api_providers: 63
-  missing: 0
-  stubs_created: 0
+  in_network: 223
+  api_providers: 64
+  missing: 7
+  stubs_created: 19
 companies:
 - name: Amazon
   url: https://www.amazon.com
@@ -74,7 +74,7 @@ companies:
   sector: healthcare
   status: growth
   source: https://www.kleinerperkins.com/partnerships/
-  slug: ambience-ai
+  slug: ambience-healthcare
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -341,7 +341,7 @@ companies:
   status: early
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   stub_created: true
   slug: nooks
   matched_by: domain
@@ -383,7 +383,7 @@ companies:
   status: early
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   stub_created: true
   slug: profound
   matched_by: domain
@@ -588,10 +588,9 @@ companies:
   sector: consumer
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: admob
-  matched_by: name-slug
+  suggested_slug: admob
 - name: Airbnb
   url: https://www.airbnb.com
   description: Global travel and short-term lodging marketplace.
@@ -625,10 +624,9 @@ companies:
   sector: hardtech
   status: active
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: alif
-  matched_by: name-slug
+  suggested_slug: alif
 - name: Align Technology
   url: https://www.aligntech.com
   description: Clear aligner dental systems (Invisalign).
@@ -1102,10 +1100,9 @@ companies:
   sector: enterprise
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: cloudhealth-technologies
-  matched_by: name-slug
+  suggested_slug: cloudhealth-technologies
 - name: CloudPhysics
   description: Cloud analytics and datacenter simulation.
   sector: enterprise
@@ -1393,10 +1390,9 @@ companies:
   sector: security
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: endgame
-  matched_by: name-slug
+  suggested_slug: endgame
 - name: Engine ML
   description: Deep learning infrastructure.
   sector: ai
@@ -1412,7 +1408,7 @@ companies:
   sector: hardtech
   status: ipo
   source: https://www.kleinerperkins.com/partnerships/
-  slug: enphase-energy
+  slug: enphase
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1563,10 +1559,9 @@ companies:
   sector: security
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
-  is_api_provider: true
-  slug: fortify-software
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fortify-software
 - name: Foundation Medicine
   description: Cancer genomics advancement.
   sector: healthcare
@@ -2046,10 +2041,9 @@ companies:
   sector: hardtech
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: linear-technology
-  matched_by: name-slug
+  suggested_slug: linear-technology
 - name: Livongo
   description: Digital health platform for chronic conditions.
   sector: healthcare
@@ -2082,10 +2076,9 @@ companies:
   sector: healthcare
   status: early
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: lotus-health-ai
-  matched_by: name-slug
+  suggested_slug: lotus-health-ai
 - name: LSI
   description: Semiconductor and storage technology chips.
   sector: hardtech
