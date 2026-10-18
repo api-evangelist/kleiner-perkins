@@ -2,9 +2,9 @@ generated: '2026-07-17'
 method: searched
 source: https://www.kleinerperkins.com/partnerships/
 summary:
-  portfolio_total: 230
-  in_network: 223
-  api_providers: 64
+  portfolio_total: 227
+  in_network: 220
+  api_providers: 71
   missing: 7
   stubs_created: 19
 companies:
@@ -97,7 +97,9 @@ companies:
   is_api_provider: false
   stub_created: true
   slug: applied-compute
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.appliedcompute.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Applied Intuition
   url: https://www.appliedintuition.com
   description: Vehicle intelligence and autonomy platform.
@@ -118,7 +120,9 @@ companies:
   is_api_provider: false
   stub_created: true
   slug: armadin
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.armadin.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Avoca
   description: The AI workforce for service businesses.
   sector: ai
@@ -128,7 +132,9 @@ companies:
   is_api_provider: true
   stub_created: true
   slug: avoca
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.avoca.ai/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Browserbase
   url: https://www.browserbase.com
   description: Browser infrastructure for AI agents.
@@ -179,7 +185,9 @@ companies:
   is_api_provider: false
   stub_created: true
   slug: engram
-  matched_by: name-slug
+  matched_by: domain
+  url: https://engram.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Fal
   url: https://www.fal.ai
   description: Lightning-fast generative media inference.
@@ -262,6 +270,8 @@ companies:
   stub_created: true
   slug: manifest-os
   matched_by: name-slug
+  url: https://manifestos.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Maxima
   description: Enterprise accounting automation.
   sector: ai
@@ -271,7 +281,9 @@ companies:
   is_api_provider: false
   stub_created: true
   slug: maxima
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.maxima.ai/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Mind Robotics
   description: Physical AI for the real world.
   sector: hardtech
@@ -281,7 +293,9 @@ companies:
   is_api_provider: false
   stub_created: true
   slug: mind-robotics
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.mindrobotics.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Mirendil
   description: Democratizing frontier AI research.
   sector: ai
@@ -291,7 +305,9 @@ companies:
   is_api_provider: false
   stub_created: true
   slug: mirendil
-  matched_by: name-slug
+  matched_by: domain
+  url: https://mirendil.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Motive
   url: https://www.gomotive.com
   description: AI-powered operations platform for the physical economy.
@@ -333,7 +349,9 @@ companies:
   is_api_provider: false
   stub_created: true
   slug: nexthop-ai
-  matched_by: name-slug
+  matched_by: domain
+  url: https://nexthop.ai
+  x-url-source: kleinerperkins.com/partnerships
 - name: Nooks
   url: https://www.nooks.ai
   description: AI-powered sales pipeline.
@@ -371,11 +389,13 @@ companies:
   sector: ai
   status: early
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: true
-  slug: poetic
-  matched_by: name-slug
+  url: http://withforge.com/
+  x-url-source: kleinerperkins.com/partnerships
+  x-name-collision: poetic
+  suggested_slug: withforge-com
 - name: Profound
   url: https://www.tryprofound.com
   description: The AI visibility platform.
@@ -403,11 +423,13 @@ companies:
   sector: ai
   status: early
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: false
-  slug: roadrunner
-  matched_by: name-slug
+  url: https://www.roadrunner.ai/
+  x-url-source: kleinerperkins.com/partnerships
+  x-name-collision: roadrunner
+  suggested_slug: roadrunner-ai
 - name: Robinhood
   url: https://www.robinhood.com
   description: Commission-free investing platform.
@@ -439,7 +461,9 @@ companies:
   is_api_provider: true
   stub_created: false
   slug: sail-research
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sailresearch.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Saronic Technologies
   url: https://www.saronic.com
   description: Autonomous maritime superiority technology.
@@ -479,7 +503,9 @@ companies:
   is_api_provider: false
   stub_created: false
   slug: terrafirma
-  matched_by: name-slug
+  matched_by: domain
+  url: https://terrafirma.inc
+  x-url-source: kleinerperkins.com/partnerships
 - name: Together.ai
   url: https://www.together.ai
   description: The AI acceleration cloud.
@@ -508,7 +534,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: trovy
-  matched_by: name-slug
+  matched_by: domain
+  url: https://trovy.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Waymo
   url: https://www.waymo.com
   description: Autonomous driving technology.
@@ -537,7 +565,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: wisdom-ai
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.wisdom.ai/
+  x-url-source: kleinerperkins.com/partnerships
 - name: '@Home Network'
   description: Cable internet service pioneer.
   sector: enterprise
@@ -555,7 +585,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: 3vr
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.3vr.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: 41st Parameter
   description: Device identification technology.
   sector: enterprise
@@ -565,6 +597,8 @@ companies:
   is_api_provider: false
   slug: 41st-parameter
   matched_by: name-slug
+  url: http://www.the41st.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Accept
   description: Enterprise sales productivity software.
   sector: enterprise
@@ -609,7 +643,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: akeana
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.akeana.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: AlienVault
   description: Threat detection and response platform.
   sector: security
@@ -618,15 +654,20 @@ companies:
   in_network: true
   is_api_provider: true
   slug: alienvault
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.alienvault.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Alif
   description: AI-enabled embedded chips.
   sector: hardtech
   status: active
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alif
+  url: https://alifsemi.com/
+  x-url-source: kleinerperkins.com/partnerships
+  slug: alif-semiconductor
+  matched_by: domain
 - name: Align Technology
   url: https://www.aligntech.com
   description: Clear aligner dental systems (Invisalign).
@@ -695,7 +736,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: amyris
-  matched_by: name-slug
+  matched_by: domain
+  url: https://amyris.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: AOL
   description: Online connectivity and internet portal.
   sector: consumer
@@ -704,7 +747,9 @@ companies:
   slug: aol
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.aol.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: apiiro
   url: https://apiiro.com
   description: Application security posture management.
@@ -723,7 +768,9 @@ companies:
   slug: appdynamics
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.appdynamics.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Arcade
   url: https://www.arcade.software
   description: Interactive content creation platform.
@@ -739,10 +786,12 @@ companies:
   sector: security
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: arcsight
-  matched_by: name-slug
+  url: http://www.arcsight.com/
+  x-url-source: kleinerperkins.com/partnerships
+  x-name-collision: arcsight
+  suggested_slug: arcsight-com
 - name: Area 1 Security
   description: Zero Trust email protection platform.
   sector: security
@@ -751,7 +800,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: area-1-security
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.area1security.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: ARMO BioSciences
   description: Cancer immunotherapy biotech.
   sector: healthcare
@@ -759,8 +810,10 @@ companies:
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
   is_api_provider: false
-  slug: armo-biosciences
-  matched_by: name-slug
+  slug: eli-lilly
+  matched_by: domain
+  url: https://www.lilly.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Arresto Biosciences
   description: Cancer drug discovery biotech.
   sector: healthcare
@@ -768,8 +821,10 @@ companies:
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
   is_api_provider: false
-  slug: arresto-biosciences
-  matched_by: name-slug
+  slug: forty-seven
+  matched_by: domain
+  url: https://www.gilead.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: ArsenalBio
   url: https://www.arsenalbio.com
   description: Programmable cell therapy.
@@ -789,6 +844,8 @@ companies:
   is_api_provider: false
   slug: ascend-communications
   matched_by: name-slug
+  url: https://en.wikipedia.org/wiki/Ascend_Communications
+  x-url-source: kleinerperkins.com/partnerships
 - name: Assured
   url: https://www.assured.claims
   description: Insurance and financial protection.
@@ -817,7 +874,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: audible
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.audible.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Audius
   url: https://audius.co
   description: Musician-focused streaming platform.
@@ -856,6 +915,8 @@ companies:
   is_api_provider: false
   slug: azarus
   matched_by: name-slug
+  url: https://www.azarus.io/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Balerion
   description: AI agents for lending.
   sector: fintech
@@ -864,7 +925,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: balerion
-  matched_by: name-slug
+  matched_by: domain
+  url: https://balerion.ai/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Beam Dental
   url: https://www.beam.dental
   description: Digital dental insurance provider.
@@ -883,7 +946,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: bedrock-systems
-  matched_by: name-slug
+  matched_by: domain
+  url: https://bedrocksystems.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Better Mortgage
   url: https://www.better.com
   description: Digital home mortgage platform.
@@ -932,16 +997,20 @@ companies:
   in_network: true
   is_api_provider: false
   slug: bison-trails
-  matched_by: name-slug
+  matched_by: domain
+  url: https://bisontrails.co/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Bitstrips
   description: Cartoon avatar and comic app.
   sector: consumer
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
-  slug: bitstrips
-  matched_by: name-slug
+  is_api_provider: true
+  slug: snapchat
+  matched_by: domain
+  url: https://www.snapchat.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Bloom Energy
   url: https://www.bloomenergy.com
   description: Clean energy fuel cell systems.
@@ -970,7 +1039,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: breathe-technologies
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.breathetechnologies.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Brex
   url: https://www.brex.com
   description: Corporate cards and spend management for startups.
@@ -990,6 +1061,8 @@ companies:
   is_api_provider: false
   slug: buddybuild
   matched_by: name-slug
+  url: http://buddybuild.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Carbon Black
   description: Cloud-native endpoint protection.
   sector: security
@@ -998,7 +1071,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: carbon-black
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.carbonblack.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Cardiovascular Devices
   description: Cardiovascular monitoring devices.
   sector: healthcare
@@ -1018,24 +1093,17 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: domain
-- name: Cell Design Labs
-  description: Cell-based therapies.
-  sector: healthcare
-  status: acquired
-  source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
-  is_api_provider: false
-  slug: cell-design-labs
-  matched_by: name-slug
 - name: Cerent
   description: Optical networking equipment.
   sector: enterprise
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
-  slug: cerent
-  matched_by: name-slug
+  is_api_provider: true
+  slug: cisco
+  matched_by: domain
+  url: https://www.cisco.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: CesiumAstro
   url: https://www.cesiumastro.com
   description: Satellite communication payloads.
@@ -1100,9 +1168,12 @@ companies:
   sector: enterprise
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cloudhealth-technologies
+  in_network: true
+  is_api_provider: true
+  url: https://www.cloudhealthtech.com/
+  x-url-source: kleinerperkins.com/partnerships
+  slug: cloudhealth
+  matched_by: domain
 - name: CloudPhysics
   description: Cloud analytics and datacenter simulation.
   sector: enterprise
@@ -1111,7 +1182,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: cloudphysics
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.cloudphysics.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Coda
   url: https://coda.io
   description: Collaborative document and app platform.
@@ -1149,16 +1222,20 @@ companies:
   in_network: true
   is_api_provider: false
   slug: collective-medical
-  matched_by: name-slug
+  matched_by: domain
+  url: https://collectivemedicaltech.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Compaq Computer Corporation
   description: Personal computers.
   sector: enterprise
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
-  slug: compaq-computer-corporation
-  matched_by: name-slug
+  is_api_provider: true
+  slug: hpe
+  matched_by: domain
+  url: https://www.hpe.com/us/en/home.html
+  x-url-source: kleinerperkins.com/partnerships
 - name: Convoke
   description: Biotech and pharma information organization.
   sector: ai
@@ -1167,7 +1244,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: convoke
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.convoke.bio/
+  x-url-source: kleinerperkins.com/partnerships
 - name: CoreOS
   description: Container operating system technology.
   sector: enterprise
@@ -1176,7 +1255,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: coreos
-  matched_by: name-slug
+  matched_by: domain
+  url: https://coreos.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Corio
   description: Software management services.
   sector: enterprise
@@ -1186,6 +1267,8 @@ companies:
   is_api_provider: false
   slug: corio
   matched_by: name-slug
+  url: http://www.corio.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: CoroNet
   description: Network management software.
   sector: enterprise
@@ -1223,6 +1306,8 @@ companies:
   is_api_provider: false
   slug: crescendo-bioscience
   matched_by: name-slug
+  url: http://www.crescendobio.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Crossbar
   url: https://www.crossbar-inc.com
   description: ReRAM non-volatile memory technology.
@@ -1270,7 +1355,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: datameer
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.datameer.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: DataStax
   url: https://www.datastax.com
   description: Enterprise NoSQL and AI data platform.
@@ -1327,7 +1414,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: diy
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.diy.org
+  x-url-source: kleinerperkins.com/partnerships
 - name: DocuSign
   url: https://www.docusign.com
   description: Electronic signature platform.
@@ -1357,6 +1446,8 @@ companies:
   is_api_provider: false
   slug: drawbridge
   matched_by: name-slug
+  url: https://www.drawbridge.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Dropcam
   description: Wi-Fi home video monitoring cameras.
   sector: hardtech
@@ -1365,7 +1456,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: dropcam
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.dropcam.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Duolingo
   url: https://www.duolingo.com
   description: Language learning platform.
@@ -1382,9 +1475,11 @@ companies:
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
-  slug: edgespring
-  matched_by: name-slug
+  is_api_provider: true
+  slug: salesforce
+  matched_by: domain
+  url: http://www.salesforce.com/analytics-cloud/overview/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Endgame
   description: Endpoint security platform.
   sector: security
@@ -1393,6 +1488,8 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: endgame
+  url: http://www.endgame.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Engine ML
   description: Deep learning infrastructure.
   sector: ai
@@ -1400,8 +1497,10 @@ companies:
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
   is_api_provider: false
-  slug: engine-ml
-  matched_by: name-slug
+  slug: ripcord
+  matched_by: domain
+  url: https://www.ripcord.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Enphase Energy
   url: https://www.enphase.com
   description: Microinverter solar energy systems.
@@ -1449,7 +1548,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: epizyme
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.epizyme.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Evalve
   description: Catheter-based mitral valve repair.
   sector: healthcare
@@ -1468,6 +1569,8 @@ companies:
   is_api_provider: false
   slug: excite-home
   matched_by: name-slug
+  url: http://excite.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Extreme Networks
   url: https://www.extremenetworks.com
   description: Cloud-managed network infrastructure.
@@ -1512,10 +1615,12 @@ companies:
   sector: hardtech
   status: early
   source: https://www.kleinerperkins.com/partnerships/
-  slug: fauna
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  url: https://faunarobotics.com/
+  x-url-source: kleinerperkins.com/partnerships
+  x-name-collision: fauna
+  suggested_slug: faunarobotics-com
 - name: Fin
   url: https://www.fin.com
   description: AI customer service solution.
@@ -1544,6 +1649,8 @@ companies:
   is_api_provider: false
   slug: flipagram
   matched_by: name-slug
+  url: https://flipagram.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Flock Safety
   url: https://www.flocksafety.com
   description: AI safety and situational awareness platform.
@@ -1559,9 +1666,12 @@ companies:
   sector: security
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: fortify-software
+  in_network: true
+  is_api_provider: true
+  url: http://www.fortify.com/
+  x-url-source: kleinerperkins.com/partnerships
+  slug: fortify
+  matched_by: domain
 - name: Foundation Medicine
   description: Cancer genomics advancement.
   sector: healthcare
@@ -1570,7 +1680,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: foundation-medicine
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.foundationmedicine.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: FullStory
   url: https://www.fullstory.com
   description: Digital experience intelligence platform.
@@ -1599,7 +1711,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: gambit
-  matched_by: name-slug
+  matched_by: domain
+  url: https://gambit.security
+  x-url-source: kleinerperkins.com/partnerships
 - name: Genentech
   url: https://www.gene.com
   description: Biotechnology company.
@@ -1619,6 +1733,8 @@ companies:
   is_api_provider: false
   slug: general-radar
   matched_by: name-slug
+  url: https://www.genrad.io/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Genomic Health
   description: Genetic research and cancer detection.
   sector: healthcare
@@ -1628,6 +1744,8 @@ companies:
   is_api_provider: false
   slug: genomic-health
   matched_by: name-slug
+  url: http://www.genomichealth.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: GenPharm
   description: Transgenic animal antibody technology.
   sector: healthcare
@@ -1646,6 +1764,8 @@ companies:
   is_api_provider: false
   slug: good-technology
   matched_by: name-slug
+  url: http://www.good.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Granola
   url: https://www.granola.ai
   description: AI notepad and company context platform.
@@ -1703,7 +1823,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: health-universe
-  matched_by: name-slug
+  matched_by: domain
+  url: https://healthuniverse.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Heartport
   description: Minimally invasive heart surgery systems.
   sector: healthcare
@@ -1713,6 +1835,8 @@ companies:
   is_api_provider: false
   slug: heartport
   matched_by: name-slug
+  url: https://www.crunchbase.com/organization/heartport-inc
+  x-url-source: kleinerperkins.com/partnerships
 - name: Huntress
   url: https://www.huntress.com
   description: Managed cybersecurity platform.
@@ -1739,8 +1863,10 @@ companies:
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
   is_api_provider: false
-  slug: icontrol-networks
-  matched_by: name-slug
+  slug: comcast
+  matched_by: domain
+  url: https://www.xfinity.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: IDEC Pharmaceuticals
   description: Oncology and autoimmune disease biotech.
   sector: healthcare
@@ -1750,6 +1876,8 @@ companies:
   is_api_provider: false
   slug: idec-pharmaceuticals
   matched_by: name-slug
+  url: https://www.crunchbase.com/organization/idec-pharmaceuticals
+  x-url-source: kleinerperkins.com/partnerships
 - name: Imprint
   url: https://www.imprint.co
   description: Loyalty-based co-branded card solutions.
@@ -1825,9 +1953,11 @@ companies:
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
-  slug: internet-security-systems
-  matched_by: name-slug
+  is_api_provider: true
+  slug: ibm
+  matched_by: domain
+  url: https://www.ibm.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Interos
   url: https://www.interos.ai
   description: Supply chain resilience platform.
@@ -1846,7 +1976,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: intersect-ent
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.intersectent.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Intuit
   url: https://www.intuit.com
   description: Business and financial software.
@@ -1876,6 +2008,8 @@ companies:
   is_api_provider: false
   slug: ionic-security
   matched_by: name-slug
+  url: http://www.ionicsecurity.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: iPierian
   description: Stem cell disease model biotech.
   sector: healthcare
@@ -1883,8 +2017,10 @@ companies:
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
   is_api_provider: false
-  slug: ipierian
-  matched_by: name-slug
+  slug: bristol-myers-squibb
+  matched_by: domain
+  url: https://www.bms.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: IronPlanet
   description: Heavy equipment and durable assets marketplace.
   sector: enterprise
@@ -1893,7 +2029,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: ironplanet
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.ironplanet.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Jask
   description: Autonomous security operations platform.
   sector: security
@@ -1903,6 +2041,8 @@ companies:
   is_api_provider: false
   slug: jask
   matched_by: name-slug
+  url: https://jask.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Jive
   url: https://www.jivesoftware.com
   description: Enterprise collaboration solutions.
@@ -1951,15 +2091,6 @@ companies:
   is_api_provider: false
   slug: karma-science
   matched_by: name-slug
-- name: Katango
-  description: Automated friend sorter application.
-  sector: consumer
-  status: acquired
-  source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
-  is_api_provider: false
-  slug: katango
-  matched_by: name-slug
 - name: Ketera
   description: Enterprise spend management solutions.
   sector: enterprise
@@ -1969,6 +2100,8 @@ companies:
   is_api_provider: false
   slug: ketera
   matched_by: name-slug
+  url: https://www.deem.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Klout
   description: Social influence measurement platform.
   sector: consumer
@@ -1977,7 +2110,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: klout
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.klout.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Labelbox
   url: https://labelbox.com
   description: Training data platform for production AI.
@@ -2013,10 +2148,12 @@ companies:
   sector: security
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: lifelock
-  matched_by: name-slug
+  url: http://www.lifelock.com/
+  x-url-source: kleinerperkins.com/partnerships
+  x-name-collision: lifelock
+  suggested_slug: lifelock-com
 - name: Lightera
   description: Optical networking equipment.
   sector: hardtech
@@ -2041,9 +2178,12 @@ companies:
   sector: hardtech
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: linear-technology
+  url: http://www.linear.com
+  x-url-source: kleinerperkins.com/partnerships
+  slug: linear-technologies
+  matched_by: domain
 - name: Livongo
   description: Digital health platform for chronic conditions.
   sector: healthcare
@@ -2052,7 +2192,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: livongo
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.livongo.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Looker
   description: Data analytics and business intelligence.
   sector: enterprise
@@ -2061,24 +2203,20 @@ companies:
   slug: looker
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
-- name: Lotus Development
-  description: Enterprise productivity software.
-  sector: enterprise
-  status: acquired
-  source: https://www.kleinerperkins.com/partnerships/
-  in_network: true
-  is_api_provider: false
-  slug: lotus-development
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.looker.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Lotus Health AI
   description: AI-powered medical platform.
   sector: healthcare
   status: early
   source: https://www.kleinerperkins.com/partnerships/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lotus-health-ai
+  url: https://lotus.ai/
+  x-url-source: kleinerperkins.com/partnerships
+  slug: lotus
+  matched_by: domain
 - name: LSI
   description: Semiconductor and storage technology chips.
   sector: hardtech
@@ -2086,8 +2224,10 @@ companies:
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
   is_api_provider: false
-  slug: lsi
-  matched_by: name-slug
+  slug: addus-homecare
+  matched_by: domain
+  url: https://lsiindustries.gcs-web.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Lumafield
   url: https://www.lumafield.com
   description: Engineering CT visualization technology.
@@ -2116,7 +2256,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: luvocracy
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.luvocracy.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: LuxCreo
   url: https://www.luxcreo.com
   description: Sustainable 3D production technology.
@@ -2133,9 +2275,11 @@ companies:
   status: acquired
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
-  is_api_provider: false
-  slug: luxvue-technology
-  matched_by: name-slug
+  is_api_provider: true
+  slug: apple
+  matched_by: domain
+  url: https://www.apple.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Macromedia
   description: Graphics, multimedia, and web software.
   sector: enterprise
@@ -2144,7 +2288,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: macromedia
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.macromedia.com
+  x-url-source: kleinerperkins.com/partnerships
 - name: Magic Leap
   url: https://www.magicleap.com
   description: Augmented reality platform.
@@ -2163,7 +2309,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: mai
-  matched_by: name-slug
+  matched_by: domain
+  url: https://mai.co/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Mandiant
   description: Incident response and threat intelligence.
   sector: security
@@ -2172,7 +2320,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: mandiant
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.mandiant.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Marimba
   description: Software configuration and update management.
   sector: enterprise
@@ -2200,7 +2350,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: medarrive
-  matched_by: name-slug
+  matched_by: domain
+  url: https://medarrive.com/
+  x-url-source: kleinerperkins.com/partnerships
 - name: Millennium Pharmaceuticals
   description: Oncology-focused biopharmaceuticals.
   sector: healthcare
@@ -2208,5 +2360,7 @@ companies:
   source: https://www.kleinerperkins.com/partnerships/
   in_network: true
   is_api_provider: false
-  slug: millennium-pharmaceuticals
-  matched_by: name-slug
+  slug: takeda-pharmaceutical-company
+  matched_by: domain
+  url: https://www.takeda.com/who-we-are/company-information/worldwide-offices/Millennium-Pharmaceuticals-Inc/
+  x-url-source: kleinerperkins.com/partnerships

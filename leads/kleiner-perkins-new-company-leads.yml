@@ -2,6 +2,20 @@ generated: '2026-10-18'
 method: derived
 source_vc: kleiner-perkins
 leads:
+- name: Poetic
+  url: http://withforge.com/
+  suggested_slug: withforge-com
+  sector: ai
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
+- name: Roadrunner
+  url: https://www.roadrunner.ai/
+  suggested_slug: roadrunner-ai
+  sector: ai
+  source_vc: kleiner-perkins
+  source: https://www.kleinerperkins.com/partnerships/
+  stub_created: false
 - name: AdMob
   url: ''
   suggested_slug: admob
@@ -9,45 +23,31 @@ leads:
   source_vc: kleiner-perkins
   source: https://www.kleinerperkins.com/partnerships/
   stub_created: false
-- name: Alif
-  url: ''
-  suggested_slug: alif
-  sector: hardtech
-  source_vc: kleiner-perkins
-  source: https://www.kleinerperkins.com/partnerships/
-  stub_created: false
-- name: CloudHealth Technologies
-  url: ''
-  suggested_slug: cloudhealth-technologies
-  sector: enterprise
+- name: ArcSight
+  url: http://www.arcsight.com/
+  suggested_slug: arcsight-com
+  sector: security
   source_vc: kleiner-perkins
   source: https://www.kleinerperkins.com/partnerships/
   stub_created: false
 - name: Endgame
-  url: ''
+  url: http://www.endgame.com
   suggested_slug: endgame
   sector: security
   source_vc: kleiner-perkins
   source: https://www.kleinerperkins.com/partnerships/
   stub_created: false
-- name: Fortify Software
-  url: ''
-  suggested_slug: fortify-software
-  sector: security
-  source_vc: kleiner-perkins
-  source: https://www.kleinerperkins.com/partnerships/
-  stub_created: false
-- name: Linear Technology
-  url: ''
-  suggested_slug: linear-technology
+- name: Fauna
+  url: https://faunarobotics.com/
+  suggested_slug: faunarobotics-com
   sector: hardtech
   source_vc: kleiner-perkins
   source: https://www.kleinerperkins.com/partnerships/
   stub_created: false
-- name: Lotus Health AI
-  url: ''
-  suggested_slug: lotus-health-ai
-  sector: healthcare
+- name: LifeLock
+  url: http://www.lifelock.com/
+  suggested_slug: lifelock-com
+  sector: security
   source_vc: kleiner-perkins
   source: https://www.kleinerperkins.com/partnerships/
   stub_created: false
