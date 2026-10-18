@@ -625,7 +625,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: admob
-  x-url-candidate: https://admob.google.com/home/
+  x-url-rejected: https://admob.google.com/home/
 - name: Airbnb
   url: https://www.airbnb.com
   description: Global travel and short-term lodging marketplace.
